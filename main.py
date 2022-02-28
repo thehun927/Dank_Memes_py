@@ -65,8 +65,6 @@ while x < 1:
     time.sleep(1)
     postmeme()
     time.sleep(1)
-    save()
-    time.sleep(1)
     main()
     time.sleep(1)
     save()
